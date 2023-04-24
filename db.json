@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Placeholder image ",
+      "image": "https://placehold.co/600x400",
+      "brand": "Placeholder",
+      "price": "999",
+      "category": "top-wear",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "Evaluation",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-2-1669710729.jpg?dim=1440x0",
+      "brand": "Dettol",
+      "price": "324",
+      "category": "bottom-wear",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
